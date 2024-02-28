@@ -1,0 +1,10 @@
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\bin\Debug\fa.exe.config
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\bin\Debug\fa.exe
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\bin\Debug\fa.pdb
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\obj\Debug\fa.csproj.AssemblyReference.cache
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\obj\Debug\fa.Properties.Resources.resources
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\obj\Debug\fa.csproj.GenerateResource.cache
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\obj\Debug\fa.csproj.CoreCompileInputs.cache
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\obj\Debug\fa.exe
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\obj\Debug\fa.pdb
+C:\Users\karee\OneDrive\Desktop\Demo\fa\fa\obj\Debug\fa.Form1.resources

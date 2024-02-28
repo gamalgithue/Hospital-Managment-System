@@ -1,7 +1,0 @@
-C:\Users\karee\OneDrive\Desktop\Demo\ObserverWeatherStation\ObserverWeatherStation\bin\Debug\ObserverWeatherStation.exe.config
-C:\Users\karee\OneDrive\Desktop\Demo\ObserverWeatherStation\ObserverWeatherStation\bin\Debug\ObserverWeatherStation.exe
-C:\Users\karee\OneDrive\Desktop\Demo\ObserverWeatherStation\ObserverWeatherStation\bin\Debug\ObserverWeatherStation.pdb
-C:\Users\karee\OneDrive\Desktop\Demo\ObserverWeatherStation\ObserverWeatherStation\obj\Debug\ObserverWeatherStation.csproj.AssemblyReference.cache
-C:\Users\karee\OneDrive\Desktop\Demo\ObserverWeatherStation\ObserverWeatherStation\obj\Debug\ObserverWeatherStation.csproj.CoreCompileInputs.cache
-C:\Users\karee\OneDrive\Desktop\Demo\ObserverWeatherStation\ObserverWeatherStation\obj\Debug\ObserverWeatherStation.exe
-C:\Users\karee\OneDrive\Desktop\Demo\ObserverWeatherStation\ObserverWeatherStation\obj\Debug\ObserverWeatherStation.pdb

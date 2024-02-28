@@ -1,0 +1,11 @@
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\bin\Debug\Hospital Managment System.exe.config
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\bin\Debug\Hospital Managment System.exe
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\bin\Debug\Hospital Managment System.pdb
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.csproj.AssemblyReference.cache
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital_Managment_System.MenuForm.resources
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital_Managment_System.Properties.Resources.resources
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.csproj.GenerateResource.cache
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.csproj.CoreCompileInputs.cache
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.exe
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.pdb
+C:\Users\clt\source\repos\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital_Managment_System.Doctor.resources
